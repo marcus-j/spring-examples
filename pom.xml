@@ -17,5 +17,6 @@
 
     <modules>
         <module>spring-retry</module>
+        <module>spring-data-mongodb</module>
     </modules>
 </project>
